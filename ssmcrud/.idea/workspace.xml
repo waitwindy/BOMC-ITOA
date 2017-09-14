@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssmcrud:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60530e46-65c8-4653-9748-ec166e5627c0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BJSPARK/BJCRM.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/BaseBus.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/BusCourse.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/BusCustomerOperate.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/BusOuterChannel.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/IPOrInstanceName.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/Organize.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/OuterChannel.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/application-core.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/application-corexc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/conf.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/Cache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/AbstractMapCacheImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/IpOrInstanceNameCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm/bus" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm/bus/AppBusCourseCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm/bus/AppBusCourseListCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm/bus/BusCustomerOperateCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm/bus/BusKeyCourseCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm/bus/OrganizeCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm/bus/WebBusCourseCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm/bus/XXGLBusCourseCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm/cha" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm/cha/BusOuterChannelCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/cache/impl/crm/cha/OuterChannelCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/core" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/core/dao" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/core/dao/BasicDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/IPOrInstanceNameDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/IPOrInstanceNameDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/JdbcDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/bus" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/bus/BusCourseDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/bus/BusCustomerOperateDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/bus/OrganizeDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/bus/impl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/bus/impl/BusCourseDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/bus/impl/BusCustomerOperateDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/bus/impl/OrganizeDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/cha" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/cha/BusOuterChannelDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/cha/OuterChannelDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/cha/impl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/cha/impl/BusOuterChannelDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/dao/impl/cha/impl/OuterChannelDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$2$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$4$$anonfun$apply$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$4$$anonfun$apply$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$$anonfun$main$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/BusSparkStreaming.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaBusSparkStreaming$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaBusSparkStreaming$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaBusSparkStreaming$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaBusSparkStreaming$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaBusSparkStreaming$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaBusSparkStreaming$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaBusSparkStreaming$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaBusSparkStreaming.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaChaSparkStreaming$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaChaSparkStreaming$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaChaSparkStreaming$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaChaSparkStreaming$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaChaSparkStreaming$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/JavaChaSparkStreaming.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$3$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$4$$anonfun$apply$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$17.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$19.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$20.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$7$$anonfun$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5$$anonfun$apply$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$$anonfun$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/SparkStreamingTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/TestInEs$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/TestInEs$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/TestInEs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/guanlian$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/main/guanlian.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/BaseBus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/BusCourse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/BusCourseLog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/BusCustomerOperate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/BusLogRecord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/BusOuterChannel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/BusOuterLog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/CoreConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/IPOrInstanceName.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/LogConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/Organize.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/model/OuterChannel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/services" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/services/BusLogProcssServices.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/services/ChaLogProcessServices.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/services/ScalaBusLogProcessServices$$anonfun$checkCurx$1$$anonfun$apply$mcV$sp$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/services/ScalaBusLogProcessServices$$anonfun$checkCurx$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/services/ScalaBusLogProcessServices$$anonfun$checkCurx$2$$anonfun$apply$mcV$sp$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/services/ScalaBusLogProcessServices$$anonfun$checkCurx$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/services/ScalaBusLogProcessServices$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/services/ScalaBusLogProcessServices.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/InternalRedisClient$$anon$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/InternalRedisClient$$anonfun$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/InternalRedisClient$$anonfun$makePool$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/InternalRedisClient$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/InternalRedisClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/JavaJsonUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/JavaRedisClient$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/JavaRedisClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/JsonUtil$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/JsonUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/StrTools$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/StrTools.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/TimeTool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../BJSPARK/target/classes/com/ultrapower/ngcrm/util/ValueTools.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BJSPARK/BJSPARK.iml" afterPath="$PROJECT_DIR$/../BJSPARK/BJSPARK.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BJSPARK/doc/营业厅操作工号/operator.csv" afterPath="$PROJECT_DIR$/../BJSPARK/doc/营业厅操作工号/operator.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BJSPARK/src/main/java/com/ultrapower/ngcrm/main/JavaBusSparkStreaming.java" afterPath="$PROJECT_DIR$/../BJSPARK/src/main/java/com/ultrapower/ngcrm/main/JavaBusSparkStreaming.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BJSPARK/src/main/java/com/ultrapower/ngcrm/main/JavaChaSparkStreaming.java" afterPath="$PROJECT_DIR$/../BJSPARK/src/main/java/com/ultrapower/ngcrm/main/JavaChaSparkStreaming.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BJSPARK/src/main/resources/application-core.properties" afterPath="$PROJECT_DIR$/../BJSPARK/src/main/resources/application-core.properties" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../BJSPARK/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1034">
+              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/user.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/dbconfig.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\Repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmcrud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmcrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BJSPARK" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat7">
+    <configuration name="Tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.751" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="ssmcrud:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssmcrud" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54717" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.751" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="ssmcrud:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_ssmcrud" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54717" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssmcrud:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\BJSPARK" />
+          <option name="myCopyRoot" value="D:\workspace\BJSPARK" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\BJSPARK" />
+          <option name="myCopyRoot" value="D:\workspace\BJSPARK" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60530e46-65c8-4653-9748-ec166e5627c0" name="Default" comment="" />
+      <created>1504664052624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504664052624</updated>
+      <workItem from="1504664056186" duration="6498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6498000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.088188976" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2976378" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1034">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dbconfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/user.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
