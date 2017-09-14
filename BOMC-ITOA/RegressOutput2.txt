@@ -1,0 +1,92 @@
+This file, RegressOutput.txt, was created at 15:27:54 on 2017-9-11
+ 
+Weighted Least Squares Minimisation
+Nelder and Mead Simplex Non-linear Regression
+y = f(x1, x2, x3 . . ., c[0], c[1], c[2] . . .
+y is non-linear with respect to the c[i]
+
+Initial estimates were supplied by the user
+
+Estimated parameters
+The statistics are obtained assuming that the model behaves as a linear model about the minimum.
+The Hessian matrix is calculated as the numerically derived second derivatives of chi square with respect to all pairs of parameters.
+Consequentlty treat the statistics with great caution
+ 
+             	Best         	Estimate of  	Coefficient  	t-value      	p-value
+             	estimate     	the error    	of           	t            	P > |t|
+             	             	             	variation (%)
+c[0]         	10.1897      	0.3227       	3.1665       	31.5806      	1.1236E-13
+c[1]         	-2.4899      	0.2018       	8.1041       	-12.3394     	1.4945E-8
+c[2]         	0.2172       	0.0262       	12.0399      	8.3057       	1.4797E-6
+
+             	Best         	Pre-min      	Post-min     	Initial      	Fractional   	Scaling
+             	estimate     	gradient     	gradient     	estimate     	step         	factor
+c[0]         	10.1897      	-0.0681      	0.0685       	6.0          	10.6         	1.0
+c[1]         	-2.4899      	-0.3191      	0.3167       	0.1          	10.05        	1.0
+c[2]         	0.2172       	-0.9798      	0.9918       	0.1          	10.05        	1.0
+
+
+yscale       	1.0          	0.0          	0.0          	0.0          	0.0
+
+x0           	y(expl)      	y(calc)      	weight       	residual     	residual
+             	             	             	             	(unweighted) 	(weighted)
+0.0          	10.9996      	10.1897      	0.5          	-0.8099      	-1.6198
+0.5          	8.8481       	8.9991       	0.45         	0.151        	0.3355
+1.0          	7.1415       	7.917        	0.55         	0.7755       	1.41
+1.5          	6.5376       	6.9436       	0.44         	0.406        	0.9226
+2.0          	6.466        	6.0787       	0.46         	-0.3873      	-0.8419
+2.5          	5.1026       	5.3225       	0.51         	0.2199       	0.4312
+3.0          	4.7215       	4.6749       	0.56         	-0.0466      	-0.0833
+3.5          	3.7115       	4.1359       	0.48         	0.4244       	0.8841
+4.0          	3.8383       	3.7055       	0.5          	-0.1328      	-0.2657
+4.5          	3.4997       	3.3837       	0.45         	-0.116       	-0.2578
+5.0          	3.7972       	3.1705       	0.55         	-0.6267      	-1.1395
+5.5          	3.4459       	3.0659       	0.44         	-0.38        	-0.8636
+6.0          	2.8564       	3.07         	0.46         	0.2136       	0.4643
+6.5          	3.291        	3.1826       	0.51         	-0.1084      	-0.2125
+7.0          	3.0518       	3.4039       	0.56         	0.3521       	0.6287
+7.5          	3.6073       	3.7338       	0.48         	0.1265       	0.2635
+
+Sum of squares of the unweighted residuals	2.591
+Chi Square	10.1653
+Reduced Chi Square	0.782
+ 
+Correlation: x - y data
+Weighted Linear Correlation Coefficient (R)	-0.8793
+Weighted Linear Correlation Coefficient Probability	3.622E-6
+ 
+Correlation: y(experimental) - y(calculated)
+Weighted Linear Correlation Coefficient	0.9853
+Weighted Linear Correlation Coefficient Probability	1.8925E-12
+ 
+Degrees of freedom	13
+Number of data points	16
+Number of estimated paramaters	3
+
+Parameter - parameter correlation coefficients
+             	c[0]         	c[1]         	c[2]         	
+c[0]         	1.0          	-0.8313      	0.6947       	
+c[1]         	-0.8313      	1.0          	-0.9647      	
+c[2]         	0.6947       	-0.9647      	1.0          	
+
+
+Coefficient of determination, R =                   0.9709
+Adjusted Coefficient of determination, R' =         0.9688
+Coefficient of determination, F-ratio =             466.456
+Coefficient of determination, F-ratio probability = 3.7849E-12
+Total (weighted) sum of squares  =                  348.8562
+Regression (weighted) sum of squares  =             338.6909
+Error (weighted) sum of squares  =                  10.1653
+
+
+Number of iterations taken	513
+Maximum number of iterations allowed	3000
+Number of restarts taken	3
+Maximum number of restarts allowed	3
+Standard deviation of the simplex at the minimum	6.1514E-10
+Convergence tolerance	1.0E-9
+simplex sd < the tolerance times the mean of the absolute values of the y values
+Step used in numerical differentiation to obtain Hessian matrix
+d(parameter) = parameter*1.0E-4
+
+End of file

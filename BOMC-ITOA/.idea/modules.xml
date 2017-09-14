@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BOMC-ITOA.iml" filepath="$PROJECT_DIR$/.idea/BOMC-ITOA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BJBigData/RegressionForecase.iml" filepath="$PROJECT_DIR$/../BJBigData/RegressionForecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BJBigData/YYRelog2Oracle.iml" filepath="$PROJECT_DIR$/../BJBigData/YYRelog2Oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssmcrud/ssm-crud.iml" filepath="$PROJECT_DIR$/../ssmcrud/ssm-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../YnCheckLog/ynCheckLog.iml" filepath="$PROJECT_DIR$/../YnCheckLog/ynCheckLog.iml" />
+    </modules>
+  </component>
+</project>
